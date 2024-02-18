@@ -6,4 +6,4 @@ I then used the "xsimutest" file to predict 1000 observations of variable Y.
 
 
 ![Visualisation of training data according to the label of the variable explained ](https://github.com/leocoooo/Machine-Learning---Supervised-Classification-/blob/main/output%20sur%20le%20fichier%20train.png)
-![Visualisation of test data according to the predicted label of the variable explained ]()
+![Visualisation of test data according to the predicted label of the variable explained ](https://github.com/leocoooo/Machine-Learning---Supervised-Classification-/blob/main/output%20sur%20le%20fichier%20test.png)
